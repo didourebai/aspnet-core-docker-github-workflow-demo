@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aspnet-core-docker-github-workflow-demo/1.0.0": {
+        "runtime": {
+          "aspnet-core-docker-github-workflow-demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aspnet-core-docker-github-workflow-demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

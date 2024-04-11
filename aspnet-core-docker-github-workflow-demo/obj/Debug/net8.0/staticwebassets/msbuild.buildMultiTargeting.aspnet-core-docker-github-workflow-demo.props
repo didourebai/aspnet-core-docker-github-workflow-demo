@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aspnet-core-docker-github-workflow-demo.props" />
+</Project>
